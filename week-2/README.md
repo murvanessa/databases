@@ -209,7 +209,7 @@ HAVING IsEqual = FALSE;
 
 <details><summary>14. Create the ERD for the HackYourFuture database (https://diagramplus.com/ is an easy tool to do so)</summary>
 	
-![HackYourFuture ERD](hyf-possible-erd.png)
+![HackYourFuture ERD](hyf-erd.png)
 
 Note that this is just one possible, albeit simple, solution.
 </details>
